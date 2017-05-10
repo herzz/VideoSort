@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoSort</string>
+    <string name="hint_search">Search Me</string>
+</resources>
